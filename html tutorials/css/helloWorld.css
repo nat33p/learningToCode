@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+#myFirstName { color: aquamarine; }
+
+#myLastName { color: blue; }
+
+.underline { text-decoration: underline; }
+
+.firstNameStyles {
+    font-style: italic;
+    text-align: center;
+}
+
+.lastNameStyles {
+    font-style: italic;
+    text-align: center;
+}
+
+body div { color: deepskyblue; }
+body div p.textLine { font-family: arial; }
+body div p.underline { background: pink; }
+
+.image {
+    background: url(http://zeendo.com/info/wp-content/uploads/2012/03/CSS+HTML.png) top left no-repeat;
+    height: 400px;
+    }
